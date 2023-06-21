@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ResetPassword/static/css/main.2601b139.css",
+    "main.js": "/ResetPassword/static/js/main.7f346b97.js",
+    "index.html": "/ResetPassword/index.html",
+    "main.2601b139.css.map": "/ResetPassword/static/css/main.2601b139.css.map",
+    "main.7f346b97.js.map": "/ResetPassword/static/js/main.7f346b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2601b139.css",
+    "static/js/main.7f346b97.js"
+  ]
+}
